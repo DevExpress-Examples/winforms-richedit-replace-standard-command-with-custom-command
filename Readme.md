@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCommands.cs](./CS/CustomCommand/CustomCommands.cs) (VB: [CustomCommands.vb](./VB/CustomCommand/CustomCommands.vb))
+* [Form1.cs](./CS/CustomCommand/Form1.cs) (VB: [Form1.vb](./VB/CustomCommand/Form1.vb))
+<!-- default file list end -->
 # How to replace standard XtraRichEdit command with your own custom command
 
 
